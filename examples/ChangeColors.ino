@@ -1,4 +1,4 @@
-#include "ArduinoMKRWiFiLed.h"
+#include "MKRWiFiLed.h"
 
 void setup() {
     MKRWiFiLed_begin();

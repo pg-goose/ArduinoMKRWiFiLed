@@ -1,4 +1,4 @@
-# ArduinoMKRWiFiLed
+# MKRWiFiLed
 
 ## Usage
 
@@ -13,7 +13,7 @@ This library depends on RTCZero and uses it's alarm interrupt functionality to s
 ## Example
 
 ```c++
-#include "ArduinoMKRWiFiLed.h"
+#include "MKRWiFiLed.h"
 
 void setup() {
     MKRWiFiLed_begin();
