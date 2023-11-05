@@ -1,0 +1,6 @@
+MKRWiFiLed_begin        KEYWORD2
+MKRWiFiLed_set          KEYWORD2
+MKRWiFiLed_clear        KEYWORD2
+MKRWiFiLed_turnOnFor    KEYWORD2
+MKRWiFiLed_turnOffFor   KEYWORD2
+MKRWiFiLed_alarmCleanUp KEYWORD2
